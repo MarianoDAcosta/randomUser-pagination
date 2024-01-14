@@ -22,3 +22,4 @@ This project is licensed under the terms of the [MIT License](https://github.com
 ## Contact
 
 If you have any questions, feel free to reach out!
+Mariano D'Acosta [LinkedIn](https://www.linkedin.com/in/mariano-d-acosta-17bb0191/)
